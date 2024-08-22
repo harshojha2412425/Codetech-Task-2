@@ -86,3 +86,4 @@ The simple linear regression model successfully demonstrated the relationship be
 **Output**
 
 <img width="960" alt="Screenshot 2024-08-22 115049" src="https://github.com/user-attachments/assets/b4023615-efa7-4fce-8c14-20d52f27e4eb">
+<img width="960" alt="Screenshot 2024-08-22 115103" src="https://github.com/user-attachments/assets/81047822-6133-4892-932c-5ebf1842d416">
